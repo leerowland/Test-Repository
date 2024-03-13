@@ -9,3 +9,6 @@ print(letters)
 numbers = ["a", "b", "c"]
 
 print(numbers)
+
+
+
