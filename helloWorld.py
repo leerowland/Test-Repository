@@ -1,1 +1,3 @@
-print("Git is awesome!")
+output = input("Enter something")
+
+print(output)
